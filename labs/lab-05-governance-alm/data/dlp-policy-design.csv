@@ -1,0 +1,10 @@
+Connector,Proposed Group,Why,Effect if Misclassified
+Microsoft Dataverse,Business,Holds Contoso business records,Business data could be combined with consumer services
+Office 365 Outlook,Business,Internal corporate mail,Corporate mail could be bridged to personal storage
+SharePoint,Business,Stores quotes and invoices,Documents could leave the tenant
+Microsoft Teams,Business,Internal collaboration,Internal messages could reach external services
+Power BI,Business,Reports on corporate data,Reports could be published to consumer targets
+Dropbox,Non-business,Consumer file storage,Corporate documents could be copied outside Contoso
+X (Twitter),Non-business,Public social media,Business data could be posted publicly
+Facebook,Non-business,Public social media,Business data could be posted publicly
+Gmail,Non-business,Personal mail,Corporate mail could be forwarded to personal accounts

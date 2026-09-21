@@ -1,0 +1,9 @@
+Process Step,System Used Today,Data Held,Who Does It,Pain Point,Target Integration
+Employee reports an issue,Outlook email to facilities@contoso.com,Free-text email body,Any employee,No structure; details missing; no tracking number,Power Apps + Dataverse
+Request is logged,Facilities Log.xlsx on a shared drive,Request title/date/room,Facilities coordinator,Manual rekeying from email; file locks when two people edit,Dataverse table
+Room availability checked,Building Services (legacy web app),Room number/capacity/status,Facilities coordinator,No API; coordinator retypes room data,Custom connector
+Approval for spend over $500,Outlook email chain,Approval decision,Facilities manager,No audit trail; approvals lost in inboxes,Power Automate Approvals
+Team is notified,Manual email or Teams message,Assignment notice,Facilities coordinator,Delays of hours on urgent requests,Power Automate + Outlook/Teams
+Documents stored,SharePoint site,Quotes and invoices,Facilities coordinator,Not linked to the request record,SharePoint connector
+Monthly reporting,Excel pivot built by hand,Volume and cost,Facilities manager,Two days of manual work each month,Power BI
+Common questions answered,Facilities coordinator by email,FAQ knowledge,Facilities coordinator,Same questions answered repeatedly,Copilot Studio agent

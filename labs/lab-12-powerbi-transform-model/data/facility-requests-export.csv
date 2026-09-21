@@ -1,0 +1,16 @@
+Request Title,Description,Category,Priority,Status,Date Requested,Estimated Cost,Room,ImportBatchId
+Broken printer in Room 201,Printer jams on every duplex job,equipment,High,New,2026-09-01,450,201,B-1001
+Order paper supplies for Floor 3,Out of A4 paper and toner,SUPPLIES,Low,New,2026-09-01,180,301 A,B-1001
+Conference room setup for Monday,Board meeting for 14 people,room setup,Medium,In Progress,2026-09-02,300,301 A,B-1001
+Air conditioning fault in Room 233,Room stays above 28 degrees,MAINTENANCE,Urgent,New,2026-09-02,1200,233,B-1001
+,,,,,,,,
+Replace damaged office chairs,Four chairs have broken gas lifts,equipment,Medium,New,2026-09-03,640,233,B-1002
+Whiteboard installation Room 301 A,Wall-mounted whiteboard required,Room Setup,Low,Completed,2026-08-28,220,301 A,B-1002
+Leaking tap in Building HighPoint,Tap drips continuously overnight,maintenance,High,In Progress,2026-09-03,N/A,301 A,B-1002
+Additional monitors for new starters,Three new starters need dual monitors,EQUIPMENT,High,New,2026-09-04,900,401 B,B-1002
+,,,,,,,,
+Projector bulb replacement,Bulb failed in the main training room,equipment,Medium,Completed,2026-08-25,275,401 B,B-1003
+Deep clean after ceiling leak,Water damage in the north stairwell,Maintenance,Urgent,In Progress,2026-09-04,1850,233,B-1003
+Restock first aid cabinets,Three cabinets are below minimum stock,supplies,Low,New,2026-09-04,95,201,B-1003
+Rearrange Room 401 B for workshop,Cabaret layout for 24 delegates,ROOM SETUP,Medium,New,2026-09-05,340,401 B,B-1003
+Door access reader faulty,Badge reader intermittently denies valid passes,maintenance,High,New,2026-09-05,N/A,201,B-1004
